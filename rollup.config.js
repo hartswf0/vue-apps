@@ -25,9 +25,9 @@ import css from 'rollup-plugin-css-only'
 var serverPath
 if ((process.env.BUILD !== 'production')) {
     // your ngrok host name for local testing
-    serverPath = "https://blair-vue-apps.ngrok.io";
+    serverPath = "https://blair-vue-apps.ngrok.io";//need to put new name each time for ngrok free
 } else {
-    serverPath = "https://resources.realitymedia.digital";
+    serverPath = "https://hartswf0.github.io";
 }
 var componentPath = serverPath + '/vue-apps/'
 export default [{//["HubsTest1", "HubsTest2"].map((name, index) => ({
