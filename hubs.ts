@@ -89,7 +89,7 @@ import Privacy_monolith from './src/apps/Onboarding/Privacy_monolith/hubs'
 import Future_monolith from './src/apps/Onboarding/Future_monolith/hubs'
 
 //futuresRoom
-import futuresRoom from './src/apps/futuresRoom/blueMountains/hubs'//this is to add a new vue app
+import futuresRoom from './src/apps/futuresRoom/blueMountains/hubs'//this is to add a new vue app.  This is where you name your app.  This can be different than the folder name.  but should be same for naming convention
 
 //test
 import AudioPad from './src/apps/AudioPad/hubs'

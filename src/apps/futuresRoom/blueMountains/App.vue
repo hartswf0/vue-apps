@@ -2,14 +2,14 @@
   <div> 
   <div id="room" class="darkwall">
   <div class="spacer">
-  <Title msg="Book: Reality Media" />
+  <Title msg="Book: Reali" />
 	<div class="squareoff" style="width:380px">Published by <a href="https://mitpress.mit.edu/books/reality-media">MIT Press</a></div>
   <br>
   <div class="oblique squareoff">Georgraphy of virtual environments</div> 
   <br>
   <div class="squareoff quote">"The blue mountains are old and short." </div>
   <br>
-   <img src="../../../assets/images/futuresRoom/test1.png" width="1000">
+   <img src="../../../assets/images/futuresRoom/test1.png" width="1000"><!--for adding images make sure don't use 'jpeg'-->
   </div>
   </div>
   </div> 
