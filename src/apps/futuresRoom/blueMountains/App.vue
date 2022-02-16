@@ -9,7 +9,7 @@
   <br>
   <div class="squareoff quote">"The blue mountains are old and short." </div>
   <br>
-   <img src="../../../assets/images/futuresRoom/test1.png" width="1000"><!--for adding images make sure don't use 'jpeg'-->
+   <img src="../../../assets/images/futuresRoom/test1.png" width="50%" height="50%"><!--for adding images make sure don't use 'jpeg'-->
   </div>
   </div>
   </div> 

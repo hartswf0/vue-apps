@@ -3,7 +3,7 @@ import App from './App.vue'
 
 class WebApp extends WebAppProto {
     constructor () {
-        super(App, 1000, 1000)//change the size of the vue app here
+        super(App, 600, 475)//change the size of the vue app here
     }
 }
 
