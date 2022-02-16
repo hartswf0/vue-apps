@@ -152,6 +152,14 @@ footer, header, hgroup, main, menu, nav, section {
       height: auto;
     }
 
+    /*sizing image*/
+    .mountain {
+       padding: 10px;
+       margin:0;
+       width: 50%;
+      height: 50%;
+    }
+
     /* label vue-app */
     .labelTitle {
       font-size:1.2em;
