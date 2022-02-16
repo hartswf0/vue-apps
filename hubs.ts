@@ -88,6 +88,9 @@ import Genres_monolith from './src/apps/Onboarding/Genres_monolith/hubs'
 import Privacy_monolith from './src/apps/Onboarding/Privacy_monolith/hubs'
 import Future_monolith from './src/apps/Onboarding/Future_monolith/hubs'
 
+//futuresRoom
+import futuresRoom from './src/apps/futuresRoom/blueMountains/hubs'//this is to add a new vue app
+
 //test
 import AudioPad from './src/apps/AudioPad/hubs'
 import Label from './src/apps/Label/hubs'
@@ -111,10 +114,15 @@ export {
     Exit, Welcome, MitPress, HubsPlatform, HubsFeatures,rotundaMap, Sharing,MitText, HubsPlatform2, Overview, Back, ARVR_monolith, History_monolith,Graphics_monolith,Presence_monolith,Genres_monolith,Privacy_monolith,Future_monolith,
     //Pit 
 
+    //futuresRoom
+    futuresRoom,//this is the exported file
+
     // Portal titles
     PortalTitle, PortalSubtitle,
     // Tests
     hubsTest1, hubsTest2, hubsTest3}
+
+    //
 
 
 
