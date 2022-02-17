@@ -115,7 +115,7 @@ export {
     //Pit 
 
     //futuresRoom
-    futuresRoom,//this is the exported file
+    futuresRoom,//this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
 
     // Portal titles
     PortalTitle, PortalSubtitle,
