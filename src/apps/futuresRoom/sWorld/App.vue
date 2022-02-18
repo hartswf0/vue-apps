@@ -1,6 +1,6 @@
 <template>
   <div id="room" class="darkwall">
-      <img xr-layer alt="Vue logo" src="../../../assets/images/futuresRoom/vrWorld1.png" />
+      <img alt="Vue logo" src="../../../assets/images/futuresRoom/vrWorld1.png" />
       <SomeText v-bind:msg="mesg" />
       <!-- <SomeText msg="Networked Vue Component with Shared Button Count" /> -->
   </div>
