@@ -1,10 +1,10 @@
 <template>
   <h1 xr-layer class="fade">{{ msg }}</h1>
   <p>
-    Here's some more text just to make things not blank.
+    This is some text so that this information is not blank.<!--This is where information is displayed above the button in the Vue App-->
   </p>
 
-  <button xr-layer @click="shared.increment">count is: {{ shared.state.count }}</button>
+  <button xr-layer @click="shared.increment">count is: {{ shared.state.count }}</button><!--this is where the button for networked button is named-->
 </template>
 
 <script setup>
