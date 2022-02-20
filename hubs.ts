@@ -121,7 +121,7 @@ export {
     //Pit 
 
     //futuresRoom
-    futuresRoom, sWorld, nWorld, eWorld, wWorld,//this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
+    futuresRoom, sWorld, nWorld, eWorld, wWorld, //this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
 
     // Portal titles
     PortalTitle, PortalSubtitle,
