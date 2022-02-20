@@ -8,7 +8,7 @@
 
 <script setup>
 import { inject } from 'vue'
-import SomeText from '../../../components/NetworkedButtonBank.vue'
+import SomeText from '../../../components/NetworkedHelloWorld.vue'
 import "../../../assets/top.css"
 import "../../../assets/room.css"
 
