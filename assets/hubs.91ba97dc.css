@@ -1,19 +1,16 @@
 
-#edit[data-v-91ee6202] {
-  color: #bea7d1;
+a[data-v-032645fe] {
+  color: #b542b9;
 }
-#edit.upclose[data-v-91ee6202] {
-  color: #cc0a0a;
+button[data-v-032645fe] {
+  width: 150px;
 }
-
-.fakeButton[data-v-7f0b7cf4] {
+.fade[data-v-032645fe] {
   color: #9803a5;
-  background: #a78e06;
   /* transition: color 1s; */
 }
-.fakeButton[data-v-7f0b7cf4]:hover {
+.fade[data-v-032645fe]:hover {
   color: #a78e06;
-  background: #9803a5;
 }
 /* http://meyerweb.com/eric/tools/css/reset/
    v4.0 | 20180602
@@ -195,41 +192,44 @@ footer, header, hgroup, main, menu, nav, section {
   background:#78cfa8;
 }
  
-a[data-v-3ddae271] {
+a[data-v-051ea7d4] {
   color: #b542b9;
 }
-button[data-v-3ddae271] {
-  width: 150px;
-}
-.fade[data-v-3ddae271] {
+.fade[data-v-051ea7d4] {
   color: #9803a5;
   /* transition: color 1s; */
 }
-.fade[data-v-3ddae271]:hover {
-  color: #a78e06;
-}
-
-a[data-v-b474cdac] {
-  color: #b542b9;
-}
-.fade[data-v-b474cdac] {
-  color: #9803a5;
-  /* transition: color 1s; */
-}
-.fade[data-v-b474cdac]:hover {
+.fade[data-v-051ea7d4]:hover {
   color: #06a71b;
 }
 
-a[data-v-07ea6a4c] {
+#edit[data-v-862575f2] {
+  color: #bea7d1;
+}
+#edit.upclose[data-v-862575f2] {
+  color: #cc0a0a;
+}
+
+.fakeButton[data-v-181ce8e0] {
+  color: #9803a5;
+  background: #a78e06;
+  /* transition: color 1s; */
+}
+.fakeButton[data-v-181ce8e0]:hover {
+  color: #a78e06;
+  background: #9803a5;
+}
+
+a[data-v-4f604150] {
   color: #b542b9;
 }
-button[data-v-07ea6a4c] {
+button[data-v-4f604150] {
   width: 150px;
 }
-.fade[data-v-07ea6a4c] {
+.fade[data-v-4f604150] {
   color: #9803a5;
   /* transition: color 1s; */
 }
-.fade[data-v-07ea6a4c]:hover {
+.fade[data-v-4f604150]:hover {
   color: #a78e06;
 }
