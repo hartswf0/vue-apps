@@ -2,6 +2,7 @@
 import hubsTest1 from './src/apps/Testing/HubsTest1/hubs'
 import hubsTest2 from './src/apps/Testing/HubsTest2/hubs'
 import hubsTest3 from './src/apps/Testing/HubsTest3/hubs'
+import HubsRevealTest from './src/apps/Testing/HubsRevealTest/hubs'
 
 import PortalTitle from './src/apps/Portal/PortalTitle/hubs'
 import PortalSubtitle from './src/apps/Portal/PortalSubtitle/hubs'
@@ -121,12 +122,12 @@ export {
     //Pit 
 
     //futuresRoom
-    futuresRoom, sWorld, nWorld, eWorld, wWorld, //this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
+    blueMountains, sWorld, nWorld, eWorld, wWorld, //this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
 
     // Portal titles
     PortalTitle, PortalSubtitle,
     // Tests
-    hubsTest1, hubsTest2, hubsTest3}
+    hubsTest1, hubsTest2, hubsTest3,HubsRevealTest, 
 
     //
 
