@@ -95,6 +95,7 @@ import sWorld from './src/apps/futuresRoom/sWorld/hubs'//south world
 import nWorld from './src/apps/futuresRoom/nWorld/hubs'//north world
 import eWorld from './src/apps/futuresRoom/eWorld/hubs'//east world
 import wWorld from './src/apps/futuresRoom/wWorld/hubs'//west world
+import cerebro from '/Users/genesissteam/Documents/GitHub/vue-apps/src/apps/futuresRoom/cerebro'
 
 
 
@@ -122,12 +123,12 @@ export {
     //Pit 
 
     //futuresRoom
-    blueMountains, sWorld, nWorld, eWorld, wWorld, //this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
+    blueMountains, sWorld, nWorld, eWorld, wWorld, cerebro,  //this is the exported file.  plug this into the spoke editor to complete bridge into hubs.
 
     // Portal titles
     PortalTitle, PortalSubtitle,
     // Tests
-    hubsTest1, hubsTest2, hubsTest3,HubsRevealTest, 
+    hubsTest1, hubsTest2, hubsTest3, HubsRevealTest, 
 
     //
 
