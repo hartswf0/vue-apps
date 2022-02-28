@@ -95,7 +95,7 @@ import sWorld from './src/apps/futuresRoom/sWorld/hubs'//south world
 import nWorld from './src/apps/futuresRoom/nWorld/hubs'//north world
 import eWorld from './src/apps/futuresRoom/eWorld/hubs'//east world
 import wWorld from './src/apps/futuresRoom/wWorld/hubs'//west world
-import cerebro from '/Users/genesissteam/Documents/GitHub/vue-apps/src/apps/futuresRoom/cerebro'
+import cerebro from './src/apps/futuresRoom/cerebro/hubs'
 
 
 
